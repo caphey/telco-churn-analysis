@@ -33,12 +33,10 @@ Notre analyse sera guidée par la vérification des hypothèses suivantes :
 ### Hypothèses sur le Produit et le Service
 * H4 (Support Technique) : Les clients n'ayant pas souscrit au service TechSupport churnent davantage, car ils sont plus susceptibles d'être frustrés par des problèmes techniques.
 
-* H5 (Écosystème) : Les clients qui n'ont pas de services "collants" (ex: OnlineSecurity, DeviceProtection, StreamingTV) perçoivent moins de valeur et partent plus facilement.
-
-* H6 (Type d'Internet) : Le type d'accès internet Fiber optic (plus cher/moderne) génère un churn différent (peut-être plus élevé à cause d'instabilité ou de prix) que le DSL.
+* H5 (Type d'Internet) : Le type d'accès internet Fiber optic (plus cher/moderne) génère un churn différent (peut-être plus élevé à cause d'instabilité ou de prix) que le DSL.
 
 ### Hypothèses sur la Démographie
-* H7 (Démographie) : Le statut SeniorCitizen influence le comportement de churn (par exemple, moins de tolérance aux problèmes techniques ou sensibilité au prix).
+* H6 (Démographie) : Le statut SeniorCitizen influence le comportement de churn (par exemple, moins de tolérance aux problèmes techniques ou sensibilité au prix).
 
 ## 4. La Stack Technique (Nos Outils)
 Stockage/Requêtage : SQLite
